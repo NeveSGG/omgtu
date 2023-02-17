@@ -1,0 +1,14 @@
+type: theory
+custom_name: Срезы. Методы.
+files:
+- name: main.py
+  visible: true
+  encrypted_text: LTaVCafK/3ABh1H0DMFme/aotk5IGFZmloPsb+HNvI4lQ6RCby1WUz08onTwG6rTxoXYEhgvONad3JcV6oWYfx2/N/Kn6BPk5E/PwjXmRYe7mKJG3MktZTByWrwLKSY59kNJmqqRGIz6ws4wsplQA9H0dHF6LGMqHxrtzOOPnOfwQYNaIBIEGMHchRRf6b2oucXaZ/QJhEazwA+X4uDXGxlSq19jyBQ8miyb3IwWWq1lNruv2koQX2QKdJ7abGbHgTXT8HNfR8W4K3GT+a1N84o8rTFGVDAFz4rIh2lvHsbKBYIPtDwNHF9s+fN8dlLcXxwHzOg7Cyh1BMt4jFZnMvZQXC/7o/usUGaFan3U9l5ch4Wy8YlcSRrvbvzJ78Od
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

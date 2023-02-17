@@ -1,0 +1,84 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 48
+    length: 280
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 33
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 364
+    length: 176
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 86
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 562
+    length: 168
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 139
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 766
+    length: 154
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 192
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 981
+    length: 141
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 245
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 1185
+    length: 129
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 298
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  encrypted_text: JrzofjUamUFCNd6xblui2/ve1j35OBscYyWxAc6AOu/dCCTZaGzRlSgiz10KTmmjScL2OV0eJwm3mmxtc7HKpYobj8lBrt6ZTaeHYq3coCf5+GWVQ/GIM4FLNxCk7mwD+SUMrQCZGQ4f6eXcRrPXdXR9MBhcQFOKSH9OcYKFpk5j2KNpjQZdKtN7NpvLonMmYq0H2PNdbS4ke7sj9E00ePv8sSYnuJGdCjntUG8NV0x2Me8KQBZNzdV/rsJx0hNjfRsHzDx78o0osPv143PgfEBsT2uskBDhQmC3CFzaylmf3aF2Vf4T/ESGfSVhIfXrq0O7GKcAV88wb0gTCHrlt4KyAxrR/LEiUZje+FeUko9/W4+FmlJTG7dFBwkg38AtgPOktdavZxXA7BzWJlld1DNjf5g0+cghe9XCPy+/dUtiX/hW7PvGS5gUPxIm/ScALVvK8Hz9mTFso/OuNI9mkzs0ZBSMc1wA+vdtWfZwyOU=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: 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
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Feb 2023 02:56:48 UTC
+record: -1

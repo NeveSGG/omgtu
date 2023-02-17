@@ -1,0 +1,54 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 62
+    length: 83
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 62
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 197
+    length: 333
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 103
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 573
+    length: 167
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 144
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  encrypted_text: jYDdsLbeYzADkRhizR9Kg4f8743FJLgxtWiV2TQv+Ncs23UK1ejILZHerv8GNH+39iR7j6AwpyfmbnNuBOj1QzQGEMtQUfPpvghcNgHnEiHBHbDbRxf+p0FjNkr3u5RZYbffDTwTRDNfGHXmWin/O1uVVBV54Tnm9/+exKoqtttCO7TFvuTkeMGvWWYwCehIIKIGiAJsPV6wr8emHa130G2abTwkCprn4kH2OyWMRFg=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdaHX6XuiDqm0uhjjNYWkg5vxHyuunBqz4bBZrAEqUOTSfiYxSLg/r6SDtBhtUzJ6Bmrlnb3ZzhswkxVea7ZrCS6TyhD6fyft5dfrvt9ByvSPvKJ6LydV8NZ8IP9Znd5uahDm5zVt0SGML8H9FVAv8Fj31YErWX7gVcYoT58Udi6HzNvU9hDEFboUEMs8wqw+Lzdf4er0Jtx4VE3sba7WlgnmyHvYfhuCzc0wBnrKyTksObiFHlw6DkyjeHI69vHf2GrDTdGOFUm3yKhEtZNufC1L4z6hIOQDoGTnCHR+kkszUoQDhWhRNUUqp4djPYJ4kGm/cPRtajCUDkLlSL0erDjQI/ej3rAkw8X4jKPCjLi+oB9VTyiPvzMwHlXG6wQOG/l4vdjKk3JNTNVGCKGJeHqLBhAwLSM1OdSQQwPAX+pivgn9ViZf6RVQ0jd5S1gCHBkqCSWh3adtCpUQBfxB27q/MXiiFsvG1FK8m0QbTMr5LsPrbrmIwCgno2b2iyIBvXvezGCBhmLpq/hmIE5n78rhGvTSc/qYmN9CKoZfi2g4M1tZVNCPXvsBTInKbPE+ogRNy+iHoI21tNycZVoY0wGs7Z+GEkilGfuB+WVlcBFGHW3+FzcmnkjHE7gcaoAETP7emoERDPbUvSS1nqWdUbyVN6KiHqjomfCPoR9ctSOQ0rXVCio3xaNSoxIZAEXR/uAFJBhRvvgPtMSkWsbLUeTOSeNtktTwuaFunE4yRXL8NHbp0Ffrd5piuUyKvjYthInfHKQ6oR3SRhOL+sI3Pn40yGTMUrnIhbpLtEJ3v7Wy73aUBFbUNyJzHI9fUiaBsZGf+M/N2fFICPAx0ws3Sd1+zNIPMMNgvav4Lw0ep/RS0u5BpW2lpW16xRhIZeeWMTeVFn6tpdNYAI2ipO+QT4kG7hbQYoTTMJ6m3/F6Xj/Oj0pHwYdtqdWoP0b+tEnH76KZm5Ji7ibV4zkQOQMLkhWHacP5uypB2csNx4Zzyn4jJZztR8ookQb7LHiPwOVOTkig8swiYCFeYz6ZrQKDC+aA/frWvGJ7t7IAU+hiWB10JazLRE6KQRhuQbWTDsEQ72zQb2W2S8XbbEpLeD5kLal1SAEZa3oFPDo3RLq3lz09ngw1S9A2zZwffaMCmAhcUSwh5CJrp3/h+xIP+sqLUPQnc1mezqgZjh3jf/drZC6AcE/zQJfJQMvsUNDOUe8ZpKwDXlitMHgBFx8L4S0BLdRWJ1+Ynu0Yw6Y+8TGYsS5sF+e6V3pU0zeRV62rX7hQbknzYVByavu8EcsLG8h3BC2+ayt1dPutORCakcFkmgvnYvNaGZm2UTw+tdBurhOEaBsAO68793Jzx9x2kLEfQEcDDtGDKYnuawBf3/Qw9Dkl5KC9gHK4krrcWgpGLrG/nO8J/eeP4F+MF5HeYyVPls/RE3kY15EXBkHvAwv5fytylobuod781E4qVs0LAzfpSdDgBrKjSM9eVj4Igx9d5iVLb7RdcgFik+pNjvjZ7S7L+rWT5JQwq9gQmc6+i5j1umKZo59WN2xBkuMy3IIF6BR61AGdy0OrX43WOHvmDtCEhaA7HH86tX/m2R/9UNvEcOIIb3cmWg9iSo8Ndn3X1L08leLgDKehSxj1hxCc120B4ZjDo3v5/giTsC0pX/P6/Akcm0UuC6Xl2rovb784Hjr9fbXSGZTLh4lNkYOK3FtOfZM/JJIqgqPJOYBjxOxH2HYn+Xy4hPgOu8SkYnu01qAPlAGtBXqNpL87wfQJVmXLLmBXemRr9+JY6Vd1Rq2kUKq0gRklGomSsqPYs+VDadk=
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Feb 2023 03:21:43 UTC
+record: -1

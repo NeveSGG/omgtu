@@ -1,0 +1,64 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 54
+    length: 217
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 21
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 312
+    length: 112
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 63
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 468
+    length: 51
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 107
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  - offset: 562
+    length: 93
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 149
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
+  encrypted_text: X/XOGT3OvAD6KYfmkWn4jwi7CAGezcRx34UPbn+JXvwE+p6A+4qLz8Q+ReyF7ZrjT1Unu0ZZsdRCqS3k+BHt2NJikbaYrWrz02udh/l+wr/EBOsHOmVJa0q2kiJRzWe7G/lEMeKz5HAAdQcet8sn0idM1qxSeq37oCxnWwdNeFOmSj//RfvNlIoRJ7GeYHw3yXkDnma/vO/V2XB0EqO7bkN6uWNyW4nZifZyszAK87k=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdaHX6XuiDqm0uhjjNYWkg5vxHyuunBqz4bBZrAEqUOTSfiYxSLg/r6SDtBhtUzJ6Bmrlnb3ZzhswkxVea7ZrCS6TyhD6fyft5dfrvt9ByvSPvKJ6LydV8NZ8IP9Znd5uahDm5zVt0SGML8H9FVAv8FjB/IQi5dVO3tRI+fZz4J3y2Up8NrD5a9P/Fw1Wp1nRbAa6HVlPSPDcQg32/Ormg30ROWSTHSP0SNEANDx31Cpm9JFco/Z9BORNoG5KhLpR4asb6jyn+Qk6aBwlwlVx9BgO/E+U98hhd1ObJoV/ZUNPCxqHQ+cEHYtLHCAtFvV6cODrR8fX6DWqr807Aw5cuZ0S1b6kJQJo1SelM8YdRJhCnPRCR+f31FAceb3A6xzzfBsnbLOrLCc/5Zm1t691tS/4Vw96CvjBDObFcK+tI2XUGGxRhKlBfUOKWcP5sV6p2S8iLvdWASzNchXQwOQxTCmmYBfSRmEpHmcuYdIZOzhEOsrqSSOQnhXN83Onx1SVmlqtYVZ/fr1Nk0FtCyB6YtKLpum5j4v4OVk404+RRWhs1NVbdb96U7zxb++JPBSDaZxRnp6pCtqVFLdMtoAdo5DTF3LQY04z/zCQg/OTCROZ4D/E/Zk3GnheqfLWaKMr6cn9RZQ00xlhhdK3uGviUUZQ/61CZ9nUbH+Vtpgt50SgeyDbNRoCgxR71unosqF0Me+7DaQs/v2Q0rQZdbx5UFEPRCV1taUu3KrdBGn/S+iT75o36Fzslm0CxOrvFSQqJYHqXN60qVvo3CAQ4xHylhZij9PgJyFFw4XPtiTI25xzTsdbJq0ILiInngGQ1ksaGsn/RPY1aDNBvylLh2qqdIQUBEQDO1RAcZBsboiQvu75E9Dz7uBlD39fwWz2EoWs9ZwtRifpgUqUJQnAGM7MkerRVpERtT5pkdNq4j2GbIq5QtjhQ2cAx/L1vnbIora4eWfxBfZDSuKWGXizse6VUZIVjn1A4SXRqaLg7zR3spq1D2e15OleCUpQXtBJ2O+Nn92KQNXYseVyFDBs/KnwnQMXW8oQs2vt6TdKpacIGbYHV2ZqghqaoVGFcDkey0M/XRDzSMmnAZDNza9Pc3XB0QBFKcha6OPBhtz0+QyJ3siZtTsAJd3QayT3U2S0kMufhRIcoRgjoP2VaeoR0antKiSAKQLqVbr9bMrz0I6UNUGlZ2ljiz2BelLIUGFrhhB5FGpfLvOrMJo2D3Ew7vyGSMzJ2Qt422Oa0pNeI9PDrpbVdFG6oW0WDmN1rdgOG0Ec6KjnQicMyVJcyt9dudmxYG4=
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Feb 2023 03:25:49 UTC
+record: -1

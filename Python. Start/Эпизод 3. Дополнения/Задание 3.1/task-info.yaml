@@ -1,0 +1,23 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  encrypted_text: m6VqEmYC/HIZY6dMr3uIMw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: px8RS4QVaK1Jup1W0BAh9Fqi7t0h0lJDNmjqtLDocbvjmu4aZKJkb49xGdrC+E5DiOX/FvxmOQaDd1NFmENHdDYSMLRVPFwYKx1h/XhXUP+70vBTbv1PTpcBHkfCO/Fz9uUjjbd9Quzj0ZbgjZxdW9DONUfjfElDNXTG+VIqdOzxP1GLK6zpomj0gH0UY4FCtx0vE+mAvU9SqcckxEQCKiQ4FRAc20j09ZsXTD+jxySaXljE20USup91eoMoZUoNPHqsbjQW3G/hYpCh/dcGwR0bBRC5DZ0ydyebZ6/wLR137N9sGBAgdQnxz0JGTcEVOosX2aLIcQGd/Co1UTFgrpuC6dfv3iveu+F8bRHVdUW5gDs+pXl8uMCxuu9dv3ioAbRDXk0C1n3186FUJk0JRjTbE8nFQbnEpUiN43i3r5PYSEMeuoLw3zrMNi0G3LlbwiSqFCPJJMPLyN3oEZlsXE273UGPVQ6gSfLR+Xt2hjLvHdY4gnzmuu6+rDghX/51yai7+wyl0HnxEXJcP7ShU/42ef8mniVpny8kpBPJdTgSvvresiEFEDGSKOtYq+xWPEec3ZoLllcKWpX5oIo3v7KlWEPXX6mWomsEmky9tl+om8I5YNV+0A5l7AlOJKhAheWiu5ulkMJfib3Ldu7Izh6J59Jl1vgQbQg2jOW9PfXzIK35xZ0oQGuw3ADyyU68Qccqs418zAVnyKfzor/a01XiqTZjz7YRzPkgGr54uJc=
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Feb 2023 03:35:22 UTC
+record: -1
