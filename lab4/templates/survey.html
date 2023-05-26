@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Анкета</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Форма анкеты</h1>
+        <form action="/submit" method="post">
+            <p>Имя: <input class="input" type="text" name="name"></p>
+            <p>Email: <input class="input" type="email" name="email"></p>
+            <p>Возраст: <input class="input" type="number" name="age"></p>
+            <p>Пол:
+                <input type="radio" name="gender" value="male"> Мужской
+                <input type="radio" name="gender" value="female"> Женский
+                <input type="radio" name="gender" value="gay"> Не определённый
+            </p>
+            <p>Любимый язык программирования
+                <select name="language">
+                    <option value="python">Python</option>
+                    <option value="java">Java</option>
+                    <option value="c++">C++</option>
+                    <option value="javascript">JavaScript</option>
+                    <option value="javascript">Assembler</option>
+                    <option value="c#">C#</option>
+                </select>
+            </p>
+            <p>Любимая IDE? <input class="input" type="text" name="editor"></p>
+            <input class="submit" type="submit" value="Отправить">
+        </form>
+    </body>
+</html>
